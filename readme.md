@@ -33,6 +33,9 @@ A simple but advanced levelling bot
 > **Global Advertising**  
 A Free to Use "Global Chat Esque" Advertising Bot
 
+> **Bot List Manager**  
+Create & Run your own Bot List
+
 
 <!-- Copied & Modified with Permission from Igor Kowalczyk -->
 
