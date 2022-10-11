@@ -17,6 +17,9 @@
 ---
 
 # Ongoing Projects  
+
+
+## Bots
 Invite here: https://theoverlook.xyz/invite
 > **MCFacts**  
 A Minecraft-focused Information & Utility Bot  
@@ -24,17 +27,15 @@ A Minecraft-focused Information & Utility Bot
 > **Vetrilox**  
 A Auto-Moderation focused Utility & Moderation Bot  
 
-> **Render Bump**  
-A Free to Use Advertising Bump Bot  
-
 > **Nation**  
 A simple but advanced levelling bot
 
 > **Global Advertising**  
 A Free to Use "Global Chat Esque" Advertising Bot
 
-> **Bot List Manager**  
-Create & Run your own Bot List
+## Servers
+> **radarcord.net**
+A bot list
 
 
 <!-- Copied & Modified with Permission from Igor Kowalczyk -->
