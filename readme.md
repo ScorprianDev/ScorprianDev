@@ -34,7 +34,7 @@ A simple but advanced levelling bot
 A Free to Use "Global Chat Esque" Advertising Bot
 
 ## Servers
-> **radarcord.net**
+> **[radarcord.net](https://radarcord.net)**  
 A bot list
 
 
