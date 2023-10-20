@@ -1,12 +1,12 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://theoverlook.xyz/Images/scorprian.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://frontier.cx/static/scorprianpfp.png">  
 
 ## Hi! Scorprian
 > Discord Bot Developer<br>
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Server&logo=discord&logoColor=fff&style=flat-square)](https://theoverlook.xyz/support)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=GoogleChrome&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Ftheoverlook.xyz)](https://theoverlook.xyz)
+[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Server&logo=discord&logoColor=fff&style=flat-square)](https://frontier.cx/discord)
+[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=GoogleChrome&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Ffrontier.cx)](https://frontier.cx)
 
 
 ---
@@ -27,8 +27,8 @@ A Minecraft-focused Information & Utility Bot
 > **Vetrilox**  
 A Auto-Moderation focused Utility & Moderation Bot  
 
-> **Nation**  
-A simple but advanced levelling bot
+> **Bot List Manager**  
+An easy to use Bot List Manager
 
 > **Global Advertising**  
 A Free to Use "Global Chat Esque" Advertising Bot
