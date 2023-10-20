@@ -20,7 +20,7 @@
 
 
 ## Bots
-Invite here: https://theoverlook.xyz/invite
+Invite here: https://frontier.cx
 > **MCFacts**  
 A Minecraft-focused Information & Utility Bot  
 
