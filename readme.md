@@ -1,12 +1,9 @@
-<!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
-
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://frontier.cx/static/scorprianpfp.png">  
 
-## Hi! Scorprian
-> Discord Bot Developer<br>
+## Scorprian
+> Discord Bot Developer, Website Creator, Person.<br>
 
 [![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Server&logo=discord&logoColor=fff&style=flat-square)](https://frontier.cx/discord)
-[![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=GoogleChrome&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Ffrontier.cx)](https://frontier.cx)
 
 
 ---
@@ -20,7 +17,7 @@
 
 
 ## Bots
-Invite here: https://frontier.cx
+
 > **MCFacts**  
 A Minecraft-focused Information & Utility Bot  
 
@@ -33,17 +30,33 @@ An easy to use Bot List Manager
 > **Global Advertising**  
 A Free to Use "Global Chat Esque" Advertising Bot
 
+> **Member Counter**  
+Simple Nickname Server Member Count Bot
+
+**Invites can be found at [https://frontier.cx](https://frontier.cx)**
+
+## Packages
+> **FjorddUtil**  
+Simple and easy-to-use javascript utility library.  
+> *Key-Value DB, Time to Milliseconds, Text Manipulation etc.*  
+[URL](https://www.npmjs.com/package/fjorddutil)
+
+> **Radarcord.js**  
+Official API Wrapper for Radarcord.net API  
+[URL](https://www.npmjs.com/package/radarcord.js)
+
 ## Servers
-> **[radarcord.net](https://radarcord.net)**  
+> **[Radarcord.net](https://radarcord.net)**  
 A bot list
 
+> **[Frontier Development](https://frontier.cx/discord)**  
+Support Server  
 
-<!-- Copied & Modified with Permission from Igor Kowalczyk -->
-
-
-
-
-
-
+> **[Logick Development](https://discord.gg/33kvwE8QZs)**  
+Software Development  
+> *Video Hosting, Chat Rooms, Client Management etc.*
 
 
+
+
+Copied & Modified with Permission from Igor Kowalczyk
